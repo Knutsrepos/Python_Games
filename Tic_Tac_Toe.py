@@ -1,5 +1,6 @@
 """
-Tic tac toe
+Tic tac toe. Up to now only two player version. I am currently working on a one player version
+using Monte Carlo.
 """
 
 import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
